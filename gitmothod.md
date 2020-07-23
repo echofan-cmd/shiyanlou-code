@@ -25,4 +25,5 @@ shiyanlou:shiyanlou-code/(master*)$git commit -m "描述说明"   #将之前在�
 shiyanlou:shiyanlou-code/(master*)$git push https://github.com/echofan-cmd/shiyanlou-code.git  #将本地仓库推送到web仓库    $git push 本地仓库名  webURL  若处在本地仓库目录下，本地仓库名 字段可省略
 至此，已完成将本地文件上传到web仓库中，登录web github 刷新自己的仓库列表， 可查看到新同步的文件。
 
-   
+### 练习在Web仓库上更新后，克隆到本地仓库，并查看   $git clone https://github.com/echofan-cmd/shiyanlou-code.git
+
